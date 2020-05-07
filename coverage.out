@@ -1,0 +1,8 @@
+mode: set
+github.com/Ulbora/AnalyticPusher/pusher.go:26.42,28.2 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:31.60,37.16 6 1
+github.com/Ulbora/AnalyticPusher/pusher.go:42.2,42.12 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:37.16,39.3 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:39.8,41.3 1 0
+github.com/Ulbora/AnalyticPusher/pusher.go:46.50,48.2 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:51.50,53.2 1 1
