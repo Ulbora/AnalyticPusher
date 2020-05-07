@@ -10,14 +10,9 @@ import (
 	"google.golang.org/api/option"
 )
 
-type TestRecord struct {
-	Name    string    `bigquery:"name"`
-	Entered time.Time `bigquery:"entered"`
-	Message string    `bigquery:"message"`
-}
-
-func TestPusher_Push(t *testing.T) {
-	var p Pusher
+func TestMockPusher_Push(t *testing.T) {
+	var p MockPusher
+	p.MockPushSuccess = true
 	p.GcpProject = "august-gantry-192521"
 	p.DatasetName = "ulboralabs"
 	ctx := context.Background()

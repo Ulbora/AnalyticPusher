@@ -1,8 +1,12 @@
 mode: set
+github.com/Ulbora/AnalyticPusher/mockPusher.go:19.46,21.2 1 1
+github.com/Ulbora/AnalyticPusher/mockPusher.go:24.64,26.2 1 1
+github.com/Ulbora/AnalyticPusher/mockPusher.go:29.55,31.2 0 1
+github.com/Ulbora/AnalyticPusher/mockPusher.go:34.55,36.2 0 1
 github.com/Ulbora/AnalyticPusher/pusher.go:26.42,28.2 1 1
-github.com/Ulbora/AnalyticPusher/pusher.go:31.60,37.16 6 1
-github.com/Ulbora/AnalyticPusher/pusher.go:42.2,42.12 1 1
-github.com/Ulbora/AnalyticPusher/pusher.go:37.16,39.3 1 1
-github.com/Ulbora/AnalyticPusher/pusher.go:39.8,41.3 1 0
-github.com/Ulbora/AnalyticPusher/pusher.go:46.50,48.2 1 1
-github.com/Ulbora/AnalyticPusher/pusher.go:51.50,53.2 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:31.60,35.16 4 1
+github.com/Ulbora/AnalyticPusher/pusher.go:40.2,40.12 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:35.16,37.3 1 0
+github.com/Ulbora/AnalyticPusher/pusher.go:37.8,39.3 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:44.50,46.2 1 1
+github.com/Ulbora/AnalyticPusher/pusher.go:49.50,51.2 1 1

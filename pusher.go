@@ -29,8 +29,6 @@ func (p *Pusher) GetNew() AnalyticPusher {
 
 //Push Push
 func (p *Pusher) Push(recs interface{}, table string) bool {
-	log.Println("in push--------:")
-	log.Println("p in push--------:", p)
 	var rtn bool
 	u := p.Client.Dataset(p.DatasetName).Table(table).Inserter()
 	err := u.Put(p.Ctx, recs)
